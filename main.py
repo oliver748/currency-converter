@@ -1,6 +1,6 @@
 from tkinter import *
 import customtkinter
-from fetch_prices import fetch
+from utilities.fetch_prices import fetch
 
 app = customtkinter.CTk()
 app.geometry("480x210")
